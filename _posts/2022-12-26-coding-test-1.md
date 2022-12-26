@@ -1,6 +1,6 @@
 ---
 title: "알고리즘 문제 - 구현"
-categories: "coding-test"
+categories: "posts"
 tags:
   - 알고리즘
   - 백준
