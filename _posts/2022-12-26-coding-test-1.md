@@ -6,8 +6,6 @@ tags:
   - 백준
 ---
 
-# 
-
 ## 개요
 
 구현 문제의 중점은, 생각하기는 쉬우나 이를 코드로 풀어냈을 때 어떻게 간결하게 해결할 수 있는가를 중점으로 판단합니다.
@@ -289,9 +287,6 @@ tags:
 컬렉션 내에서 원소의 갯수를 파악할 때 사용할 수 있는 `frequency()`함수를 알고난 덕분에, 원소의 갯수를 세는데 더욱 수월했습니다.  
 
 ### 3. `char[]`는 `Arrays.stream()`으로 사용할 수 없다
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39c2b2dc-7bf4-407d-b747-12d3cb29486c/Untitled.png)
-
 `Arrays.stream()`을 사용해서 Stream으로 반환시켜서 많이 사용하는데, 원시 숫자 타입과 클래스 타입은 되는데 `char[]`는 바로 Stream으로 변환할 수 없었습니다.
 
 그래서 컬렉션 타입으로 변환하기 위래 아래와 같은 코드를 사용했습니다.
