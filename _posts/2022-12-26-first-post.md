@@ -1,6 +1,6 @@
 ---
 title: "코드리뷰를 위한 commit과 태도"
-categories: etc
+categories: posts
 tags:
   - 공유
 ---
