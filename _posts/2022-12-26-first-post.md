@@ -1,6 +1,6 @@
 ---
 title: "코드리뷰를 위한 commit과 태도"
-date: 2022-12-26T16:11:12+00:00
+categories: etc
 tags:
   - 공유
 ---
