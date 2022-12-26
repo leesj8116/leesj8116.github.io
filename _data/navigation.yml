@@ -2,6 +2,9 @@
 main:
   - title: "posts"
     url: /posts/
+  - title: "coding test"
+    url: /coding-test/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
