@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "git branch 전략, 그리고 merge 방식"
 categories: "posts"
 tags:
   - git
